@@ -18,3 +18,5 @@ def square():
 square()
 sam_turtle.forward(100)
 square()
+
+sam_turtle.forward(50)
